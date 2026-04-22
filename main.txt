@@ -1,2 +1,2 @@
-ttoday is wednesday. 
+today is wednesday. 
 tomorrow is thursday.
