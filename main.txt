@@ -1,2 +1,3 @@
 today is wednesday. 
 tomorrow is friday.
+yesterday was tuesday.
