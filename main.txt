@@ -1,3 +1,4 @@
 today is wednesday. 
 tomorrow is saturday.
 yesterday was monday.
+day after tomorrow is monday.
