@@ -3,3 +3,4 @@ resource "azurerm_resource_group" "apple" {
   name     = each.value.name
   location = each.value.location
 }
+as
